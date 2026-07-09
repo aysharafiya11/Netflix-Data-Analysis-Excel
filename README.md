@@ -339,10 +339,10 @@ This project strengthened my understanding of:
 Netflix-Data-Analysis-Excel
 │
 ├── Dataset
-│   └── netflix_titles.xlsx
+│   └── netflix-titles.xlsx
 │
 ├── Dashboard
-│   └── Netflix Dashboard.xlsx
+│   └── netflix-dashboard.xlsx
 │
 ├── Images
 │   └── dashboard-preview.png
