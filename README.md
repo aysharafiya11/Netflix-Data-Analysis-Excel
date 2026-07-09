@@ -138,18 +138,9 @@ The interactive dashboard consists of:
 
 # 🖥 Dashboard Preview
 
-> Save the dashboard screenshot inside the Images folder.
 
-```
-Images/
-    dashboard-preview.png
-```
+![Netflix Dashboard](Images/dashboard-preview.png)
 
-Display using:
-
-```markdown
-![Dashboard](Images/dashboard-preview.png)
-```
 
 ---
 
